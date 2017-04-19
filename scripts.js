@@ -3,8 +3,8 @@
 var ethervote, ethervoteContract, proposalHash, totalVotes, proposal, totalPro, totalAgainst;
 var voteMap = {};
 
-var contractAddress = '0x1e9d5e4ed8ef31cfece10b4c92c9057f991f36bc';
-var contractAddressTestnet = '0x47ab800a75990b0bd5bb4a54cfbec777972c973c';
+var contractAddress = '0x70C151C8425Ac303f90A3a966A1E2786555403d6';
+//var contractAddressTestnet = '0x47ab800a75990b0bd5bb4a54cfbec777972c973c';
 
 var startingBlock = 1800000;
 
